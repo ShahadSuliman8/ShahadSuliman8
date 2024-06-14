@@ -7,7 +7,7 @@ I really enjoy learning programming languages.
 <h1 align="center">Hi 👋, I'm Shahad Suliman</h1>
 <h3 align="center">Programmer and Designer</h3>
 
-- 🌱 I’m currently learning **Computer skills**
+- 🌱 I’m currently learning **computer skills**
 
 - 📫 How to reach me **shahadsuliman078@gmail.com**
 
