@@ -7,8 +7,13 @@ I really enjoy learning programming languages.
 <h1 align="center">Hi 👋, I'm Shahad Suliman</h1>
 <h3 align="center">Programmer and Designer</h3>
 
+- 🌱 I’m currently learning **Computer Scince**
+
+- 📫 How to reach me **shahadsuliman078@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shahad suliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahad suliman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
