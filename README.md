@@ -11,7 +11,6 @@ I really enjoy learning programming languages.
 
 - 📫 How to reach me **shahadsuliman078@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
